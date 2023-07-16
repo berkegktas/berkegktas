@@ -20,3 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okan-bey&show_icons=true&locale=en" alt="okan-bey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okan-bey&" alt="okan-bey" /></p>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/okan-bey/blob/output/github-contribution-grid-snake.gif)
+
+
