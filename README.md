@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berke Okan Göktaş</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **Python,R,SQL,Tensorflow,OpenCV**
+- 🔭 I’m currently working on **Machine Learning Fundamentals**
+- 🌍I'm based in İzmir
 
 - 📫 How to reach me **berke17102002@gmail.com**
 
