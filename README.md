@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke Okan Göktaş</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center">A junior data scientist from Turkey</h3>
 
 - 🔭 I’m currently working on **Machine Learning Fundamentals**
 - 🌍I'm based in İzmir
